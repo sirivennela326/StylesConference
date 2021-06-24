@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+body{
+  background-color: #fff;
+  font-family: sans-serif;
+  margin: 0px;
+}
+#s1{
+ background-color: rgb(62, 81, 128);
+ border-width:  2px;
+ border-color: #425f82;
+ border-style: solid;
+}
+#a1{
+  padding: 20px 10px 40px 180px;
+  font-size:45px;
+  font-stretch: expanded;
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+  float: left;
+}
+#d2{
+  color: #729cb5;
+  font-size: 20px;
+   padding: 50px 80px 5px 200px;
+   padding-left: 800px;
+}
+a{
+  color: #fff;
+}
+li{
+  display: inline-block;
+  font-size: 13px;
+ padding: 10px;
+}
+ul.a2{
+  padding-left: 670px;
+  padding-bottom: 40px;
+}
+div.a2{
+  color: #729cb5;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+}
+p.a2{
+  width: 700px;
+  line-height: 1.7;
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
+button.a2{
+  font-size: 20px;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  color: #fff;
+  background-color: rgb(62, 81, 128);
+ padding: 20px;
+ margin-bottom: 50px;
+}
+#s2{
+  padding: 40px 10px 50px 180px;
+  display: inline-block;
+}
+div > a{
+  color: #111;
+  font-size: 20px;
+}
+.c1{
+  width: 290px;
+
+}
+.c2{
+  display: inline-block;
+}
+.c3{
+  margin-right: 25px;
+
+}
+footer{
+  padding: 50px 40px 40px 180px;
+  color: #729cb5;
+  background-color: rgb(62, 81, 128);
+  margin: 0px;
+  font-size: 13px;
+}
+footer > ul{
+    float: right;
+}
+li.se{
+  font-style: oblique;
+  padding-top: 0px;
+  padding right: 50px;
+}
